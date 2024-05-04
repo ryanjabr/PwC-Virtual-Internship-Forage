@@ -124,3 +124,5 @@ The purpose of this dashboard is to serve as self-exploratory for managers, but 
 
 - Employees who were promoted had very low-performance ratings, while those who left had higher ratings.
 
+Dashboard Created (pdf) : [https://github.com/ryanjabr/PwC-Virtual-Internship-Tasks/blob/main/PwC%20HR%20Analysis%20Project.pdf]
+
