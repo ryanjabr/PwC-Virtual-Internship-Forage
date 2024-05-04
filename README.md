@@ -1,4 +1,4 @@
-# Call Center Customer Satisfaction | PwC Virtual Case Experience
+# Task 1 - Call Center Customer Satisfaction | PwC Virtual Case Experience
 
 ## Problem Statement
 
@@ -40,7 +40,7 @@ CALCULATE(COUNT(Sheet1[Call Id]),FILTER(Sheet1,Sheet1[Resolved]="Y"))
 
 - Most issues relating to Streaming were resolved (749)
   
-# Diversity & Inclusion | PWC Virtual Case Experience
+# Task 3 - Diversity & Inclusion | PWC Virtual Case Experience
 
 ## Problem Statement
 
