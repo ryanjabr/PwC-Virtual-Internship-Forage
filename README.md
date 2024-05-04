@@ -39,6 +39,8 @@ CALCULATE(COUNT(Sheet1[Call Id]),FILTER(Sheet1,Sheet1[Resolved]="Y"))
 - Agent Martha has the highest average rating of 3.47 followed by Dan with 3.45
 
 - Most issues relating to Streaming were resolved (749)
+
+Dashboard created (pdf) - [https://github.com/ryanjabr/PwC-Virtual-Internship-Tasks/blob/main/Task1/PwC%20Call%20Centre%20Task%20Dashboard.pdf]
   
 # Task 3 - Diversity & Inclusion | PWC Virtual Case Experience
 
