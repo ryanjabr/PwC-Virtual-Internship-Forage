@@ -1,3 +1,45 @@
+# Call Center Customer Satisfaction | PwC Virtual Case Experience
+
+## Problem Statement
+
+Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. 
+
+## Data Sourcing
+
+The dataset used for this analysis was provided by Pwc Switzerland
+
+### Measures
+
+Calculated measures 
+
+Answered : 
+
+```dax
+CALCULATE(COUNT(Sheet1[Call Id]),FILTER(Sheet1, Sheet1[Answered (Y/N)]="Y"))
+```
+
+Resolved (Y) :
+
+```dax
+CALCULATE(COUNT(Sheet1[Call Id]),FILTER(Sheet1,Sheet1[Resolved]="Y"))
+```
+
+- Created a new coloumn 'Day Name' which contains the name of the days of the week according to the corresponding entries in the 'Date' coloumn
+
+## Analysis and Insights
+
+- Highest number of calls were answered during the month of January.
+
+- Agent Jim answered and resolved the most no of calls with 536 and 485 respectively.
+
+- A total of 5000 calls were made from which 4054 were answered and 3646 were resolved.
+
+- The most no. of calls received, answered and resolved were on Monday followed by Saturday and Sunday.
+
+- Agent Martha has the highest average rating of 3.47 followed by Dan with 3.45
+
+- Most issues relating to Streaming were resolved (749)
+  
 # Diversity & Inclusion | PWC Virtual Case Experience
 
 ## Problem Statement
