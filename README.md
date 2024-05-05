@@ -30,6 +30,13 @@ CALCULATE(COUNT(Sheet1[Call Id]),FILTER(Sheet1,Sheet1[Resolved]="Y"))
 
 - Created a new coloumn 'Day Name' which contains the name of the days of the week according to the corresponding entries in the 'Date' coloumn
 
+## Dashboard 
+
+![PwC Call Centre Trend Dashboard-1](https://github.com/ryanjabr/PwC-Virtual-Internship-Forage/assets/168835863/ce636797-8934-407b-bfa3-6b71d18d4e0e)
+
+![PwC Call Centre Trend Dashboard (1)-1](https://github.com/ryanjabr/PwC-Virtual-Internship-Forage/assets/168835863/778ec5d9-2762-41ee-a84c-3a3c518d7395)
+
+
 ## Analysis and Insights
 
 - Highest number of calls were answered during the month of January.
