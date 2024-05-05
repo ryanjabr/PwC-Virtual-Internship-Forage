@@ -176,9 +176,15 @@ Created a new conditional coloumn to convert entries in tenure coloumn (months) 
 
 ## Dashboard
 
-![PwC Dashboard Task 2 - Churn Analysis (3)-1](https://github.com/ryanjabr/PwC-Virtual-Internship-Forage/assets/168835863/77b32249-6f05-41fe-887e-9fa6db662602)
+![PwC Dashboard Task 2 - Churn Analysis (1)-1](https://github.com/ryanjabr/PwC-Virtual-Internship-Forage/assets/168835863/4149dd06-140b-4641-a081-f31f4e21891d)
+
 
 ![PwC Dashboard Task 2 - Churn Analysis (2)-1](https://github.com/ryanjabr/PwC-Virtual-Internship-Forage/assets/168835863/1b586c8d-4727-4bfb-87ff-493f5abf687b)
+
+
+![PwC Dashboard Task 2 - Churn Analysis (3)-1](https://github.com/ryanjabr/PwC-Virtual-Internship-Forage/assets/168835863/77b32249-6f05-41fe-887e-9fa6db662602)
+
+
 
 ## Analysis & Insights 
 
