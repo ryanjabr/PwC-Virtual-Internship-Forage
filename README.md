@@ -62,7 +62,7 @@ A few weeks after presenting your dashboard to the management, the Retention Man
 
 In addition, to better understand the data, the telecom Retention Manager has scheduled a meeting with the engagement partner at PwC to cover these points:
 
-- Customers in the telecom industry are hard-earned: we donâ€™t want to lose them
+- Customers in the telecom industry are hard-earned: we don't want to lose them
 
 - The retention department is here to get customers back in case of termination
   
@@ -70,7 +70,7 @@ In addition, to better understand the data, the telecom Retention Manager has sc
   
 - We have done customer analysis with Excel: it has always ended in a dead-end
 
-- We would like to know more about our customers: visualised clearly so that itâ€™s self-explanatory for our management
+- We would like to know more about our customers: visualised clearly so that its self-explanatory for our management
 
 ## Data Sourcing
 
@@ -210,7 +210,6 @@ Tools : Power BI, Microsoft Excel.
      
    -  Define some root causes of their slow progress in improving gender balance at the executive management level 
        
-   -  Allows for minimal interaction.
  
 ## Data Sourcing
 
