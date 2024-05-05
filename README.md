@@ -174,6 +174,12 @@ Churn Count = CALCULATE(COUNT(Churn[Churn]),Churn[Churn]="Yes")
 
 Created a new conditional coloumn to convert entries in tenure coloumn (months) to years eg. less than or equal to 12 -> 1yr , greater than 12 but less than 24 -> 2yr
 
+## Dashboard
+
+![PwC Dashboard Task 2 - Churn Analysis (3)-1](https://github.com/ryanjabr/PwC-Virtual-Internship-Forage/assets/168835863/77b32249-6f05-41fe-887e-9fa6db662602)
+
+![PwC Dashboard Task 2 - Churn Analysis (2)-1](https://github.com/ryanjabr/PwC-Virtual-Internship-Forage/assets/168835863/1b586c8d-4727-4bfb-87ff-493f5abf687b)
+
 ## Analysis & Insights 
 
 - No. of Admin Tickets stood at 2173 and No. of Tech Tickets stood at 885
