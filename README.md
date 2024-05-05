@@ -188,7 +188,7 @@ Created a new conditional coloumn to convert entries in tenure coloumn (months) 
   
 - Yearly increase of automatic payments by 5%
 
-Dashboard created (pdf) : []
+Dashboard created (pdf) : [https://github.com/ryanjabr/PwC-Virtual-Internship-Tasks/blob/main/Task%202/PwC%20Dashboard%20Task%202%20-%20Churn%20Analysis.pdf]
 
 
 
