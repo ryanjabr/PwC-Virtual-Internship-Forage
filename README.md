@@ -332,6 +332,17 @@ Percentage of Females :
 % female = DIVIDE(Pharma[females],Pharma[males]+Pharma[females])
 ```
 
+## Dashboard 
+
+![PwC HR Analysis Project-1](https://github.com/ryanjabr/PwC-Virtual-Internship-Forage/assets/168835863/33df9a42-56f0-4576-9522-deeeae4ce3ce)
+
+![PwC HR Analysis Project (1)-1](https://github.com/ryanjabr/PwC-Virtual-Internship-Forage/assets/168835863/6b501b69-131d-4cc4-ba7b-0d56b5240983)
+
+![PwC HR Analysis Project (2)-1](https://github.com/ryanjabr/PwC-Virtual-Internship-Forage/assets/168835863/1bfff149-c1a6-47fc-a1b4-870208adbc46)
+
+![PwC HR Analysis Project (3)-1](https://github.com/ryanjabr/PwC-Virtual-Internship-Forage/assets/168835863/b699a4b3-76e1-435e-a061-c9646bcb8d29)
+
+
 ## Analysis and Insights
 
 The purpose of this dashboard is to serve as self-exploratory for managers, but I still noted some points that I think might be the root causes of their slow progress in improving gender balance at the executive management level :
